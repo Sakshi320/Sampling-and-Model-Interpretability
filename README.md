@@ -1,3 +1,3 @@
 # Sampling-and-Model-Interpretability
 
-Interpreting my model after applyimg 'Sampling' techniques
+Interpreting my model after applying 'Sampling' techniques
