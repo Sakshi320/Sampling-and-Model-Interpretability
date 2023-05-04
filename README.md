@@ -1,3 +1,3 @@
-# Sampling-and-Model-Interpretability
+# Sampling--Model-Interpretability
 
 Interpreting my model after applying 'Sampling' techniques
